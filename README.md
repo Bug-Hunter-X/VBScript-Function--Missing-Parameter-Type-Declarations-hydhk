@@ -1,0 +1,1 @@
+This repository demonstrates a common but easily overlooked error in VBScript: missing type declarations for function parameters.  The `bug.vbs` file shows the erroneous code, while `bugSolution.vbs` provides a corrected version.  Understanding parameter types is crucial for robust and predictable VBScript functions.
